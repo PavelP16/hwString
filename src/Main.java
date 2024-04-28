@@ -34,5 +34,6 @@ public class Main {
         //Вариант 2
         System.out.println(fullName.replace("ё", "e"));
 
+
     }
 }
